@@ -135,6 +135,3 @@ void HelloWorld::menuCloseCallback(Ref* pSender)
 
 
 }
-
-
-
